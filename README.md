@@ -45,6 +45,7 @@ To start jupyter run the following command:
 jupyter lab
 ```
 
+**REMEMBER** to activate the conda environment before running jupyter lab.
 
 
 
